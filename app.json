@@ -1,0 +1,46 @@
+{
+  "id": "5d16b41e-751d-4e7e-9f80-837d503364f7",
+  "name": "NewEmailCustomizationBC365",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "NewEmailCustomizationBC365",
+  "description": "NewEmailCustomizationBC365",
+  "privacyStatement": "http://BC365.com",
+  "EULA": "http://BC365.com",
+  "help": "http://BC365.com",
+  "url": "http://BC365.com",
+  "logo": "logo.jpeg",
+  "dependencies": [
+    {
+      "id": "9c5c08e0-6e8b-48be-aac2-20b1ce64405b",
+      "publisher": "XS-Supply",
+      "name": "XSSupply",
+      "version": "3.0.69.0"
+    },
+    {
+      "id": "9b2f6760-31f1-4bae-87e2-c04d0fc23eaf",
+      "publisher": "XS-Supply",
+      "name": "XSSupplyBatchInvoices",
+      "version": "1.0.97.0"
+    },
+    {
+      "id": "68e13fa3-217a-4be0-9141-99e5bf0ca818",
+      "publisher": "Microsoft",
+      "name": "Email - SMTP Connector",
+      "version": "17.5.22499.22680"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 52000,
+      "to": 52999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://NewEmailCustomizationBC365.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}
